@@ -10,4 +10,4 @@ def quick_sort(list):
 	
 list = [11,6,2,8,7,9,5,14,22,34]
 print("quicksorted", quick_sort(list))
-	
+	#quicksort
